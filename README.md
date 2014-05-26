@@ -1,5 +1,5 @@
 
-Deprecated
+*Deprecated*
 ====
 Note this repository is way out of date, use *https://github.com/wkeese/dojo-api-data* instead.
 
